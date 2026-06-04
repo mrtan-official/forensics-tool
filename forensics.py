@@ -1,1 +1,3 @@
-python3 -c "import forensics; forensics.forensic_menu()"
+import os
+os.system("git pull")
+python3 -c "import forensics; forensics.menu()"
